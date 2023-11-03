@@ -1,4 +1,4 @@
-![social_media](https://github.com/akshayark97/SocialMedia/assets/39210915/f526c550-eaec-4176-9711-c1d85ee48f28)
+![social_media](https://github.com/akshayark97/SocialMedia/assets/39210915/22c5c11f-75db-41d3-8e34-f504612dcab4)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
